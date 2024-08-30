@@ -1,0 +1,250 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2, ul {
+    position: relative;
+}
+
+/*#region Form-01 */
+
+#form-01 {
+    margin: auto;
+}
+
+
+    #form-01 img.background {
+        width: 100%;
+        position: absolute;
+    }
+
+    #form-01 .content {
+        width: 600px;
+        margin: auto;
+        position: relative;
+        top: 100px;
+        border-radius: 10px;
+        background: rgb(3, 149, 255, 0.40)
+    }
+
+    #form-01 .content-box {
+        display: inline-block;
+        width: 100%;
+    }
+
+        #form-01 .content-box .item h1 {
+            display: block;
+            margin: 30px auto;
+        }
+
+        #form-01 .content-box h1 {
+            padding: 10px;
+            font-size: 40px;
+            font-weight: 900;
+            font-family: monospace;
+            color: #fff;
+            text-shadow: 4px 2px 1px #f00000;
+            background-image: url(https://resizing.flixster.com/p4bNRltTA96oMxss5CJVBj0YvSU=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvUlRUVjIwNDEwMy53ZWJw);
+            background-position-y: 55%;
+            background-size: 420px;
+            border-radius: 20px;
+            width: 420px;
+            height: 65px;
+            text-align: center;
+        }
+
+        #form-01 .content-box span .avatar {
+            width: 100px;
+            height: 100px;
+            display: block;
+            margin: 0 auto;
+            border: 3px solid #000000;
+            border-radius: 50%;
+        }
+
+        #form-01 .content-box .title {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #fff;
+            font-size: 30px;
+            font-family: monospace;
+            font-weight: 800;
+        }
+
+        #form-01 .content-box .email {
+            margin: 5px 15px;
+            font-size: 25px;
+            color: #fff;
+            font-weight: 600;
+            font-family: monospace;
+        }
+
+        #form-01 .content-box .pass {
+            margin: 5px 15px;
+            font-size: 25px;
+            color: #fff;
+            font-weight: 600;
+            font-family: monospace;
+        }
+
+        #form-01 .content-box .input p input {
+            display: block;
+            margin: 20px auto;
+        }
+
+    #form-01 input[type=text],
+    #form-01 input[type=password] {
+        display: block;
+        margin: 0 30px;
+        border: 1px solid #dedbdb;
+        padding: 10px;
+        margin: 15px 0;
+        width: 80%;
+        border-radius: 5px;
+        font-size: 20px;
+        outline: none;
+    }
+
+    #form-01 input[type=submit] {
+        border: 1px solid #249afc;
+        width: 80%;
+        padding: 15px;
+        border-radius: 5px;
+        background: #249afc;
+        font-size: 20px;
+        font-weight: 600;
+        color: #fff;
+        text-align: center;
+        cursor: pointer;
+        transition: 1s;
+    }
+
+        #form-01 input[type=submit]:hover {
+            background-image: url('https://i0.wp.com/www.fontshut.com/wp-content/uploads/2022/02/Logo_1900_1200v21.jpg?fit=1600%2C1000&ssl=1');
+            background-position-y: 50%;
+            background-size: 510px 510px;
+            transform: scale(1.1)
+        }
+
+/*#endregion */
+
+
+#form-02 {
+    margin: auto;
+}
+
+
+    #form-02 img.background {
+        width: 100%;
+        position: absolute;
+    }
+
+    #form-02 .content {
+        width: 600px;
+        margin: auto;
+        position: relative;
+        top: 100px;
+        border-radius: 10px;
+        background: rgb(250, 147, 255, 0.40);
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+
+    #form-02 .content-box {
+        display: inline-block;
+        width: 100%;
+    }
+
+        #form-02 .content-box .item h1 {
+            display: block;
+            margin: 30px auto;
+        }
+
+        #form-02 .content-box h1 {
+            padding: 10px;
+            font-size: 40px;
+            font-weight: 900;
+            font-family: monospace;
+            color: #fff;
+            text-shadow: 4px 2px 1px #f00000;
+            background-image: url(https://media4.giphy.com/media/l41YxbocKKocjada0/giphy.gif);
+            background-position-y: 10%;
+            background-position-x: 38%;
+            background-size: 304px;
+            border-radius: 20px;
+            width: 420px;
+            height: 65px;
+            text-align: center;
+        }
+
+        #form-02 .content-box span .avatar {
+            width: 100px;
+            height: 100px;
+            display: block;
+            margin: 0 auto;
+            border: 3px solid #249afc;
+            border-radius: 50%;
+        }
+
+        #form-02 .content-box .title {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #fff;
+            font-size: 30px;
+            font-family: monospace;
+            font-weight: 800;
+        }
+
+        #form-02 .content-box .email {
+            margin: 5px 15px;
+            font-size: 25px;
+            color: #fff;
+            font-weight: 600;
+            font-family: monospace;
+        }
+
+        #form-02 .content-box .pass {
+            margin: 5px 15px;
+            font-size: 25px;
+            color: #fff;
+            font-weight: 600;
+            font-family: monospace;
+        }
+
+        #form-02 .content-box .input p input {
+            display: block;
+            margin: 20px auto;
+        }
+
+    #form-02 input[type=text],
+    #form-02 input[type=password] {
+        display: block;
+        margin: 0 30px;
+        border: 1px solid #dedbdb;
+        padding: 10px;
+        margin: 15px 0;
+        width: 80%;
+        border-radius: 5px;
+        font-size: 20px;
+        outline: none;
+    }
+
+    #form-02 input[type=submit] {
+        border: 1px solid rgb(247, 101, 255, 0.40);
+        width: 80%;
+        padding: 15px;
+        border-radius: 5px;
+        background: #249afc;
+        font-size: 20px;
+        font-weight: 600;
+        color: #fff;
+        text-align: center;
+        cursor: pointer;
+        transition: 1s;
+    }
