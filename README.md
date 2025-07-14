@@ -32,4 +32,5 @@ To create **6 unique forms** (Form 01 → Form 06) with different styles, layout
    git clone https://github.com/quy-trach/Form-Control-My.git
 
 
-![Uploading Screenshot 2025-07-15 004722.png…]()
+<img width="1899" height="904" alt="Screenshot 2025-07-15 004722" src="https://github.com/user-attachments/assets/547e3a73-439e-499c-8d9a-4aee085c5259" />
+
