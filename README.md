@@ -31,6 +31,7 @@ To create **6 unique forms** (Form 01 → Form 06) with different styles, layout
    ```bash
    git clone https://github.com/quy-trach/Form-Control-My.git
 
+<img width="1888" height="871" alt="image" src="https://github.com/user-attachments/assets/eda5d6b7-e751-4bf5-8d1e-78724f0af85d" />
 
-<img width="1899" height="904" alt="Screenshot 2025-07-15 004722" src="https://github.com/user-attachments/assets/547e3a73-439e-499c-8d9a-4aee085c5259" />
 
+<img width="1890" height="867" alt="image" src="https://github.com/user-attachments/assets/3e80ac41-5cf7-44ee-a4c5-1b74b77783f1" />
